@@ -212,7 +212,6 @@ body {
     -moz-backface-visibility: hidden;
     -ms-backface-visibility: hidden;
     backface-visibility: hidden;
-    background: url(images\testpicture.jpg);
 }
 * {
     margin: 0;
@@ -440,6 +439,7 @@ pre .language {
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+    /*background-image: url(public\css\images\testpicture.jpg);*/
 }
 #home-posts-wrap {
     position: relative;
