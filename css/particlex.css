@@ -212,12 +212,7 @@ body {
     -moz-backface-visibility: hidden;
     -ms-backface-visibility: hidden;
     backface-visibility: hidden;
-    background: url(/images/testpicture.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed; /*不重复*/
-    background-size: cover; /*填充*/
-    background-position: 50% 50%;
-    
+    background: url(images\testpicture.jpg);
 }
 * {
     margin: 0;
